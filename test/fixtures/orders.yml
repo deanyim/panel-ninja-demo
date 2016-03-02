@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  widget_id: 
+  custom_id: 
+  quantity: 1
+  shipment_status: MyString
+
+two:
+  widget_id: 
+  custom_id: 
+  quantity: 1
+  shipment_status: MyString
